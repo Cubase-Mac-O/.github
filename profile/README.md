@@ -1,6 +1,6 @@
 # Cubase Advanced
 <div align="center">
-  <img src="https://static.macupdate.com/products/15029/l/cubase-logo.png?v=1647160421" width="300" height="auto;"> 
+  <img src="https://www.shareicon.net/data/512x512/2015/07/25/74738_cubase_512x512.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
